@@ -44,4 +44,4 @@ Entrar na plataforma [Code 360](https://www.naukri.com/code360), procurar pelo n
 
 ## Outros
 
-[Vídeo de Apresentação]([https://youtu.be/wMZ6LdrFpto](https://www.youtube.com/watch?v=eSItnLOjYzA))
+[Vídeo de Apresentação](https://youtu.be/eSItnLOjYzA?si=fObfndcgLP0jhsYO)
